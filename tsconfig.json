@@ -16,6 +16,9 @@
     ],
     "baseUrl": ".",
     "paths": {
+      "@farm/fixtures": [
+        "libs/fixtures/src/index.ts"
+      ]
     }
   },
   "exclude": [
